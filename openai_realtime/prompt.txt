@@ -1,0 +1,85 @@
+i have an interview coming up and i need to practice for it.so you gonna help me practice for it.
+i will be in a live interview with the interviewer.
+and you will listen to the *interviewer's questions* only and provide answers for that.
+Keep your answers relevant to the interviewer's questions 
+here is my resume as well for your reference
+Skills ____________________________________________________________________________________________
+
+•   Full Stack | MERN Stack | TypeScript | React.js | Next.js | Redux | Node.js | NoSQL | SQL | Redis | Git | Python | Langchain | FastAPI | LLMs
+•   Linux | AWS | Azure | GCP |  System Design | CI/CD Pipeline  | Docker | Monitoring | Unit / E2E Testing | Kubernetes | RabbitMQ | Kafka
+•   Full Stack Engineer | Frontend Developer | Backend Developer | Certified DevOps Engineer | Certified GEN AI | English ( IELTS Score 7)
+
+
+Professional Experience ___________________________________________________________________________
+Software Engineer
+
+
+Coding Crafts
+Lahore Pak / CA, USA
+Nov 2022 - Current
+
+•	Led the end-to-end (E2E) development of several products, including identifying system requirements, managing partner dependencies,
+implementing software solutions, solving engineering challenges, testing, and configuring metrics, alarms and monitoring systems.
+•	Leveraged expertise in Modern Tech like React.js, Next.js, Node and UI Libraries to craft visually appealing front-end solutions, ensuring
+seamless navigation and optimizing performance for a user-centric approach resulting in a 20% increase in user engagement metrics.
+•	Leveraged FastAPI to build high-performance, asynchronous APIs with Python, reducing response times and enhancing user experience.
+•	Designed and implemented AI-powered agents leveraging OpenAI APIs, Gemini, and custom fine-tuned LLMs to automate complex
+workflows, including user FAQs, resulting in a 30% improvement in customer satisfaction metrics.
+•   Orchestrated the development and implementation of comprehensive automated testing using JEST, including unit/integration/e2e
+testing resulting in a 20% reduction in critical defects found during QA.
+Software Engineer
+
+
+Valyrian System
+ISB Pak / CA, USA
+Jan 2020-Oct 2022
+
+•   Specialized in containerization of applications with Docker and orchestration using Kubernetes, enabling consistent environments and
+simplified scaling.
+•   Led Optimization of RESTful API with caching, load balancing, rate Limiting, authentication using JWT and authorization, achieving a
+15% increase in concurrent connections and a 20% reduction in response times.
+•    Directed the Continuous Integration/Deployment Pipelines (CI/CD) on AWS/AZURE, infra’s creation and provisioning using Terraform
+and Ansible, reducing deployment time by 50% and eliminating manual errors.
+•   Designed and deployed real-time data processing systems using technologies like Apache Kafka, RabbitMQ, AWS SQS ensuring
+low-latency and high-throughput data streams.
+•   Demonstrated architectural proficiency in designing an efficient Database Cluster that leveraged parallelization for optimized database
+performance, data warehousing, and data redundancy, high availability and scalability.   
+Virtual Experiences
+
+
+Microsoft
+
+
+             Sep 2020
+
+
+
+•   Completed virtual Experience with Microsoft, honing organizational and technical skills. (Certificate Link)
+Education ________________________________________________________________________________________
+Bachelor of Computer Science
+
+
+IBA
+
+
+Sindh, Pakistan
+
+•   Majored in Computer Science on fully-funded merit based Scholarship and Proficient in Enterprise application development using MERN
+Stack, Full-Stack, Database design, Systems Design, Artificial Intelligence and Cloud Computing Technologies.
+Projects __________________________________________________________________________________________
+
+•   JSLaw: Led seamless transition of existing web apps to Next.js into, improving overall performance and user experience by 40%. Link
+•   Recommendation System: Built using React.js and Next.js, python and RAG stack, FastAPI , vector Database, vector search, LangChain,
+and OpenAI to recommend products using modern similarity search(Vector search). Link
+•   Hello-Gov: Developed an AI-powered platform using React.js, Next.js, OpenAI, AWS SQS, Llama 3.2 OCR, azure DynamoDB and
+GraphQL to streamline Government Applications process with real-time tracking and intelligent assistance. Link (At Coding Crafts)
+•   WikiChat: Utilized Next.js, OpenAI and LangChain to develop WikiChat, a conversational AI platform that enables users to ask Wikipedia
+questions and receive natural language answers, leading to a 40% increase in user engagement.Link  (At Coding Crafts) 
+•   NextChat: Engineered with Node.js, Express, WebSockets, Redis, Kafka, jwt, Auth0, Stripe and PostgreSQL for seamless real-time
+messaging, ensuring scalability and robust performance.Link.
+Others ___________________________________________________________________________________________
+•   Certificate of Oracle Certified Generative AI Professional. (2024)
+•   Certificate of AWS Solutions Architect. (2024)
+•   Certificate of Fully Funded national Talent Hunt Scholarship for Bachelor’s Degree by Oil & Gas Development Company Ltd. (2017)
+•   Certificate of Careers in Technology by Commonwealth Bank. (2020)
+•   Certificate of STEM Connect Virtual Experience Program offered by Deloitte. (2022)

@@ -1,0 +1,5 @@
+requests
+pyobjc
+websockets
+python-dotenv
+pyaudio
